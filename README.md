@@ -1,4 +1,5 @@
 OrangeHRM Automation – iGenTech Task 2
+
 Project Overview :
 This project is an automated test suite for the OrangeHRM web application, focused on UI automation for the Admin module using Selenium WebDriver and TestNG.
 The suite tests user management operations such as adding, searching, and deleting users. It uses the Page Object Model (POM) pattern for maintainable and reusable code.
