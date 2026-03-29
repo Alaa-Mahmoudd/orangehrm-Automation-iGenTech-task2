@@ -6,9 +6,17 @@ This project is an automated test suite for the OrangeHRM web application, focus
 
 
 The suite tests user management operations such as:
+
+
 ➕ Adding users
+
+
 🔍 Searching users
+
+
 ❌ Deleting users
+
+
 
 The project follows the Page Object Model (POM) pattern for maintainable and reusable code.
 
