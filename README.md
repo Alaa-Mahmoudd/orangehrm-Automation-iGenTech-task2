@@ -1,15 +1,17 @@
 🟠 OrangeHRM Automation – iGenTech Task 2
-📄 Project Overview
 
+
+📄 Project Overview
 This project is an automated test suite for the OrangeHRM web application, focused on UI automation for the Admin module using Selenium WebDriver and TestNG.
 
-The suite tests user management operations such as:
 
+The suite tests user management operations such as:
 ➕ Adding users
 🔍 Searching users
 ❌ Deleting users
 
 The project follows the Page Object Model (POM) pattern for maintainable and reusable code.
+
 
 🛠 Tools & Dependencies
 Java 25 – Programming language for automation scripts
@@ -18,6 +20,8 @@ TestNG 7.9 – Testing framework for running tests and assertions
 Maven – Dependency and project management
 ChromeDriver – Browser driver for Google Chrome (ensure it matches your Chrome version)
 Git & GitHub – Version control and repository management
+
+
 📝 Setup Instructions
 1️⃣ Clone the Repository
 git clone https://github.com/Alaa-Mahmoudd/orangehrm-Automation-iGenTech-task2.git
@@ -52,6 +56,8 @@ Reports include:
 ❌ Failed tests
 ⏱ Execution time
 📌 Assertion results
+
+
 ⚠️ Notes
 Ensure Chrome browser and ChromeDriver versions match
 Maintain a stable internet connection for OrangeHRM access
